@@ -1,0 +1,10 @@
+PyQt6
+pyav
+pynput
+asyncio
+json
+socket
+struct
+time
+os
+sys
