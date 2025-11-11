@@ -1,6 +1,10 @@
 # 🚀 SmartControlX: Wireless Android Screen Mirroring & Control
 
 <p align="center">
+  <img src="https://github.com/Unkown-Demon/SmartControlX/actions/workflows/android_build.yml/badge.svg" alt="Android Build Status">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Language-Python%20%7C%20Kotlin%20%7C%20C++-blue.svg" alt="Languages">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-green.svg" alt="Platforms">
   <img src="https://img.shields.io/badge/Protocol-TCP%20%7C%20UDP-orange.svg" alt="Protocols">
@@ -57,8 +61,9 @@ Asosiy maqsadi: Android qurilmasi ekranini kompyuterga yuqori tezlikda uzatish v
 
 #### 3. Android Serverini O'rnatish
 
-1.  `SmartControlX/android` papkasini **Android Studio** orqali oching.
-2.  Loyihani qurib (Build) va qurilmangizga **APK** faylini o'rnating.
+1.  **Tayyor APK'ni yuklab olish:** Eng so'nggi APK faylini to'g'ridan-to'g'ri **[GitHub Releases](https://github.com/Unkown-Demon/SmartControlX/releases)** sahifasidan yuklab oling.
+2.  **Qurilmaningizga o'rnating:** Yuklab olingan APK faylini Android qurilmangizga o'rnating.
+3.  **Qo'lda qurish (Ixtiyoriy):** Agar siz kodni o'zgartirgan bo'lsangiz, `SmartControlX/android` papkasini Android Studio orqali ochib, loyihani qo'lda qurishingiz mumkin.
 
 ### 🔌 Ishlatish Bosqichlari
 
@@ -125,8 +130,9 @@ The core goal is to provide high-speed video transmission of the Android screen 
 
 #### 3. Android Server Setup
 
-1.  Open the `SmartControlX/android` folder in **Android Studio**.
-2.  Build the project and install the resulting **APK** file on your Android device.
+1.  **Download Pre-built APK:** Download the latest APK file directly from the **[GitHub Releases](https://github.com/Unkown-Demon/SmartControlX/releases)** page.
+2.  **Install on Device:** Install the downloaded APK file on your Android device.
+3.  **Manual Build (Optional):** If you have modified the code, you can open the `SmartControlX/android` folder in Android Studio and build the project manually.
 
 ### 🔌 Usage Steps
 
