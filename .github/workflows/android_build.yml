@@ -31,10 +31,10 @@ jobs:
             ndk;25.2.9519653
 
       - name: Grant execute permission for gradlew
-        run: chmod +x android/gradlew
+        run: chmod +x gradlew
 
       - name: Build debug APK
-        run: ./android/gradlew assembleDebug --stacktrace
+        run: ./gradlew assembleDebug --stacktrace
 
       - name: Upload APK to Artifacts
         uses: actions/upload-artifact@v4
